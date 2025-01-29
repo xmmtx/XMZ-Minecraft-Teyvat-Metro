@@ -1,2 +1,2 @@
-# XMZ-Teyvat-Metro
-XMZ 提瓦特轨道交通
+# XMZ-Minecraft-Teyvat-Metro
+XMZ 方块提瓦特轨道交通
